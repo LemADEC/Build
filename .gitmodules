@@ -20,3 +20,6 @@
 [submodule "CodeGenerator"]
 	path = CodeGenerator
 	url = https://github.com/VoltzEngine-Project/CodeGenerator
+[submodule "Minecraft-1.7"]
+	path = Minecraft-1.7
+	url = https://github.com/VoltzEngine-Project/Minecraft-1.7.git

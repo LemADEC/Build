@@ -11,3 +11,7 @@ ops.json
 mods - Shortcut.lnk
 logs/
 src/main/scala
+src/
+changelog.html
+debug.txt
+gagradle.properties.bak
